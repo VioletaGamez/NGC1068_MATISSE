@@ -1,0 +1,16 @@
+tag        rnNe7d0
+modelfile  rnNe7d3
+outmodel   rnNe7d4
+datafile   datasnnN1 
+weightfile weightsn1
+wavefile   wavenne7
+niter       700
+nwalkers    2100
+uvl         200
+visnoise   .01 
+cpnoise    .15
+update     1
+useburn    0
+problim    5
+output     1
+hard       2
